@@ -1,0 +1,14 @@
+{
+  "name": "storybook-ejs-example",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@storybook/html": "^5.1.11",
+    "babel-loader": "^8.0.6",
+    "ejs-compiled-loader": "^1.1.0"
+  }
+}
